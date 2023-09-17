@@ -52,5 +52,3 @@ az webapp up --resource-group Stephen-504 --name StephenApp --runtime "PYTHON:3.
 The application was successfully deployed and is accessible via the following URL:
 
 [**Stephen-504-Flask Application**](http://stephenapp.azurewebsites.net)
-
-`
